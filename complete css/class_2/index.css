@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+/*#back{
+    color:blueviolet;
+    background-color: aqua;
+}*/
+/*#box1{
+    height:200px;
+    width:200px;
+    background: rgb(219, 14, 76);
+    color:blueviolet;
+    margin-left: 4cm;
+    margin-top:4cm;
+    margin-right:4cm;
+
+}*/
+/*#icon{
+    height:500px;
+    width:500px;
+    background-image: url(images.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}*/
+
+#box1{
+    height:50px;
+    width:50px;
+    background-color: aqua;
+    visibility: hidden;
+}
+
+#box2{
+    height:50px;
+    width:50px;
+    background-color: red;
+    visibility:visible;
+}

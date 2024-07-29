@@ -1,0 +1,26 @@
+/*UNIVERSAL SELECTOR
+*{
+   Property
+}
+*/
+/* EXTERNAL CSS*/
+
+h3{
+    color:brown;
+}
+/*heading selector or element selector*/
+h4{
+    color:beige;
+    background:#212121;
+}
+/* id selector*/
+#de,.six{
+    color:aquamarine;
+}
+/*class selector*/
+.df{
+    color:crimson;
+}
+#first p{
+    color:darkviolet;
+}

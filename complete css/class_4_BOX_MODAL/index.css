@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#padded{
+    height: 50px;
+    width:50px;
+    padding: 2px;
+    margin:5px 5px 5px 5px;
+    border:2px solid;
+    border-radius: 5px;
+    text-align: center;
+    background-color: aqua;
+}
+
+#padded1{
+    height: 50px;
+    width: 50px;
+    padding: 2px;
+    margin:5px 5px 5px 5px;
+    border:2px dashed black;
+    border-radius: 5pxp;
+    text-align: center;
+    background-color: chocolate;
+}
+#first-button{
+    height:40px;
+    width: 40px;
+    padding:2px;
+    margin:50px;
+    border:1.5px solid red;
+    border-radius: 33px;
+    background: #000;
+    color:white;
+    text-shadow: 0cm;
+
+}

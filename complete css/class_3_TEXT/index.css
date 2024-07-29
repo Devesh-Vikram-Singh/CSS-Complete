@@ -1,0 +1,46 @@
+/*#first{
+    height: 100px;
+    width:100px;
+    background-color: yellow;
+    text-align: center;
+    text-decoration:underline;
+}
+#second{
+    height: 100px;
+    width:100px;
+    background-color: #353532;
+    text-align: left;
+    text-decoration-color: deeppink;
+   
+}
+#third{
+    height: 100px;
+    width:100px;
+    background-color: rgb(217, 16, 16);
+    text-align: right;
+    
+}
+#link{
+    height: 200px;
+    width:200px;
+    text-decoration:underline;
+    text-transform: uppercase;
+    
+
+}
+#first1{
+    line-height: 6px;
+}
+#second{
+    line-height: 30px;
+}
+
+#first2{
+    font-size: 30px;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}*/
+
+.material-symbols-outlined{
+    font-size: 300px;
+}

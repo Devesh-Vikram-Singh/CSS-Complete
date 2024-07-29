@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/*#first{
+     height: 100px;
+     width:100px;
+     margin:10px;
+    background-color:orange;
+    border:2px solid black;
+    text-align: center;
+    display:inline-block ;
+}
+
+#second{
+    height: 100px;
+    width:100px;
+    margin:10px;
+   background-color: rgb(252, 252, 252);
+   display: block;
+   border:2px solid black;
+   text-align: center;
+   display:inline-block ;
+   
+   
+}
+
+#third{
+    height: 100px;
+    width:100px;
+    margin:10px;
+   background-color: green;
+   border:2px solid black;
+   display: block;
+   text-align: center;
+   display:inline-block ;
+}*/
+
+/*#box1{
+    height:200px;
+    width:200px;
+    font-size: 50px;
+    background-color: #061af4;
+}
+#box2{
+    height:50%;
+    width:50%;
+    font-size: 2rem;
+    background-color: rgb(255, 10, 10);
+}*/
+
+/*div{
+    background-color: hsl(66, 98%, 51%);
+    height: 70px;
+    width:70px;
+    border: 2px solid black;
+    margin:20px;
+
+
+}
+#first{
+ position:static
+} 
+#second{
+  position: relative;
+  top:20px;
+  left:90px;
+}
+#third{
+position: fixed;
+top:20px;
+left:90px;
+}
+#fourth{
+position: absolute;
+top:200px;
+left:200px;
+}*/
+  nav{
+    padding:5px;
+  }
+nav a{
+    text-decoration: none;
+    margin-left: 175px;
+    color:white;
+    padding:5px;
+    
+}
+header{
+    background-color: black;
+    height:30px;
+}
+
+#second{
+    height:200px;
+    width:200px;
+    background-color: #000000;
+    border-radius: 100px;
+   text-align: center;
+    color:white;
+ 
+}
+.box{
+    height:100px;
+    width: 100px;
+    padding:10px;
+    background-color:rgb(16, 15, 15) ;
+    margin:5px;
+    border:3px solid white;
+    color:white;
+    text-align: center;
+    border-radius:50px ;
+    display: inline-block;
+    
+}
+#container{
+     border:3px solid red;
+     margin:10px;
+    
+}
+#id1{
+    margin:50px;
+}
+#id2{
+    margin:50px;
+    
+}
+#id3{
+    margin:50px;
+}
